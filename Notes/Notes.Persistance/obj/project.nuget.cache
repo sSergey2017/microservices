@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Vn81LgN7XKIz1YMDvpxgqKnEVxx1+8IyP4h6PwUgb+w9MI1dWZWiqks1ED7kgfXGibkXNZX9ih/JEGe65b6Mug==",
+  "dgSpecHash": "i2sBfCg8YZKV7YvA+JihI8pkfnnUSOcTypkBLhrgLNmyMEQ5LVnXosq65lh5Peb+FS3tnUkDqrw2CGcJj9CFJQ==",
   "success": true,
   "projectFilePath": "D:\\Lessons\\NET\\Microservices\\1\\Notes\\Notes.Persistance\\Notes.Persistance.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\SERGEY\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.14\\microsoft.data.sqlite.core.5.0.14.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.14\\microsoft.entityframeworkcore.5.0.14.nupkg.sha512",
