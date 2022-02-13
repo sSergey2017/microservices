@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "r4AlXKXaSxPuJbFeuXxLvLfxqwJKaXZbGWSb9CdaXMm1FLvdyD1PT7D2BA+OOmGBQ/c45hGD5iFJ7pHVl5UC7A==",
+  "dgSpecHash": "iL47pJdGwi5KNq1DBp/Dm8BPcE67OBKtCaGO9TssDTw99wxtLTTXQPXyy8z/jDMF5hY4D1trdoWPApIryvnb3A==",
   "success": true,
   "projectFilePath": "D:\\Lessons\\NET\\Microservices\\1\\Notes\\Notes.Persistance\\Notes.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SERGEY\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\SERGEY\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.14\\microsoft.data.sqlite.core.5.0.14.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
@@ -20,7 +21,7 @@
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
-    "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
