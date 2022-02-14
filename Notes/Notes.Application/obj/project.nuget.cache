@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4j9Wc91C6JtmJTqAoXM4IxDJ7QHvMKRu5OXVBCLAIYmVro1eNAcdUqRuXSiHcU+Ml1LUakkvPNb1fokXD5kMdw==",
+  "dgSpecHash": "IWqXCFV1MTZRnFZ60l0wGuAh6krNe4h58tzu4+ycg+4NF+cHzXHKroS59oowDalsCcJKYNpXky3/BzbuW3Z+uA==",
   "success": true,
   "projectFilePath": "D:\\Lessons\\NET\\Microservices\\1\\Notes\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SERGEY\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\SERGEY\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\SERGEY\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\SERGEY\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
